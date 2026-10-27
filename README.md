@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
