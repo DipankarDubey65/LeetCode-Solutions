@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [2325-decode-the-message](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [2325-decode-the-message](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
