@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
