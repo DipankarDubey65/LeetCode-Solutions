@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/DipankarDubey65/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
