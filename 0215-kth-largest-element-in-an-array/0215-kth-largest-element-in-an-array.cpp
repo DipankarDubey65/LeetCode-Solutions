@@ -7,7 +7,7 @@ public:
             pq.push(nums[i]);
         }
         for(int i=k;i<nums.size();i++){
-            if(nums[i]>=pq.top()){
+            if(nums[i]>pq.top()){
                 pq.pop();
                 pq.push(nums[i]);
             }
